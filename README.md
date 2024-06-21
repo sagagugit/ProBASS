@@ -1,6 +1,6 @@
 ﻿ProBASS – a language model with sequence and structural features for predicting the effect of mutations on binding affinity.
 
-Here we introduce a model (Probass) which is fine-tuned, incorporating features derived from both Protein Language models ESM-2 and ESM-IF1.
+Here we introduce a model (ProBASS) which is fine-tuned, incorporating features derived from both Protein Language models ESM-2 and ESM-IF1.
 
 This model is designed for the prediction of ddGbind values, which serve as indicators of both the sequence and structural attributes of the mutated protein complexes.
 
