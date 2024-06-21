@@ -6,6 +6,9 @@ This model is designed for the prediction of ddGbind values, which serve as indi
 
 The model is an efficient way to predict the effect of mutations on protein binding affinity. 
 
+![pb](https://github.com/sagagugit/ProBASS/assets/122979609/d0a3bd61-ed5a-4a8a-83ff-0ab194a807b7)
+
+
 More details regarding the Protein Language models can be accessible from here: https://github.com/facebookresearch/esm.
 
 The following notebooks can be used to explore the basic functionality of Probass.
