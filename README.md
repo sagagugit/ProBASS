@@ -1,4 +1,4 @@
-[Open in Colab](https://colab.research.google.com/github/sagagugit/test/blob/main/ProBASS.ipynb)
+[Open in Colab](https://colab.research.google.com/github/sagagugit/ProBASS/blob/main/ProBASS.ipynb)
  
 ProBASS – a language model with sequence and structural features for predicting the effect of mutations on binding affinity.
 
