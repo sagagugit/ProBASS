@@ -1,4 +1,6 @@
-﻿ProBASS – a language model with sequence and structural features for predicting the effect of mutations on binding affinity.
+[Open in Colab](https://colab.research.google.com/github/sagagugit/test/blob/main/ProBASS.ipynb)
+ 
+ProBASS – a language model with sequence and structural features for predicting the effect of mutations on binding affinity.
 
 Here we introduce a model (ProBASS) which is fine-tuned, incorporating features derived from both Protein Language models ESM-2 and ESM-IF1.
 
@@ -11,7 +13,6 @@ The model is an efficient way to predict the effect of mutations on protein bind
 
 More details regarding the Protein Language models can be accessible from here: https://github.com/facebookresearch/esm.
 
-The following notebooks can be used to explore the basic functionality of Probass.
 
 To extract embeddings protocols are available here: https://github.com/facebookresearch/esm.
 
